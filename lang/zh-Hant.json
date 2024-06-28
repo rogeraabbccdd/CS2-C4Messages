@@ -1,0 +1,6 @@
+{
+  "BombExplodedTimeLeftMessage": "{green}[C4MSG] {blue}{0}{white} 差 {red}{1} {white}秒就能拆除炸彈!",
+  "SuccessfulDefuseTimeLeftMessage": "{green}[C4MSG] {blue}{0}{white} 在剩下 {red}{1} {white}秒時拆除炸彈!",
+  "DefuserDiedTimeLeftMessage": "{green}[C4MSG] {blue}{0}{white} 剩下 {red}{1} {white}秒就能拆除炸彈了!",
+  "PostDefuseKillTimeMessage": "{green}[C4MSG] {orange}{0}{white} 差 {red}{1} {white}秒就能阻止炸彈被拆除!"
+}

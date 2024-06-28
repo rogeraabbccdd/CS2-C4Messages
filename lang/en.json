@@ -1,0 +1,6 @@
+{
+  "BombExplodedTimeLeftMessage": "{green}[C4MSG] {blue}{0}{white} was too late by {red}{1}s{white}!",
+  "SuccessfulDefuseTimeLeftMessage": "{green}[C4MSG] {blue}{0}{white} defused with {red}{1}s{white} remaining!",
+  "DefuserDiedTimeLeftMessage": "{green}[C4MSG] {blue}{0}{white} was {red}{1}s{white} away from defusing!",
+  "PostDefuseKillTimeMessage": "{green}[C4MSG] {orange}{0}{white} was {red}{1}s{white} too late to stop the defuser!"
+}
